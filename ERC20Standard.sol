@@ -1,6 +1,6 @@
 pragma solidity ^0.5.7;
 
-library SafeMath {
+library SafeMath {dobercoin
 
     function mul(uint256 a, uint256 b) internal pure returns (uint256) {
         if (a == 0) {
